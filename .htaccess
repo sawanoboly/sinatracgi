@@ -1,3 +1,6 @@
+AddHandler cgi-script .cgi
+Options +FollowSymLinks +ExecCGI
+
 RewriteEngine On
 RewriteBase /sinatracgi
 
