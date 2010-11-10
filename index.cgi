@@ -8,5 +8,9 @@ get '/' do
   'Hello World!'
 end
 
+get '/hi' do
+  'Hello World 2!'
+end
+
 set :run => false, :environment => :production
 Rack::Handler::CGI.run Sinatra::Application
