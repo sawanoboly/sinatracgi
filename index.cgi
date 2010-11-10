@@ -9,7 +9,7 @@ get '/' do
 end
 
 get '/hi' do
-  'Hello World 2!'
+  'Hello World! 2'
 end
 
 set :run => false, :environment => :production
