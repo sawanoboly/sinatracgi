@@ -1,5 +1,5 @@
 cd httpdocs
-git clone git@github.com:sawanoboly/sinatracgi.git
+git clone git://github.com/sawanoboly/sinatracgi.git
 chmod u+x sinatracgi/index.cgi
 
 
