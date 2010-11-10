@@ -7,5 +7,5 @@ chmod u+x sinatracgi/index.cgi
 http://{yourdomain}/sinatracgi/
 => Hellow World!
 
-http://{yourdomain}/sinatracgi/hi2
+http://{yourdomain}/sinatracgi/hi
 => Hellow World 2!
